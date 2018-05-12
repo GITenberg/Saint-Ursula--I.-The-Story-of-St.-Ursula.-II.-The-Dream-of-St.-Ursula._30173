@@ -1,0 +1,30 @@
+_repo: Saint-Ursula--I.-The-Story-of-St.-Ursula.-II.-The-Dream-of-St.-Ursula._30173
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: ''
+gutenberg_issued: '2009-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30173'
+  lccn: '13005671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Ursula, Saint'
+- !lcsh 'Carpaccio, Vittore, 1455?-1525? Dream of Saint Ursula'
+title: 'Saint Ursula: I. The Story of St. Ursula. II. The Dream of St. Ursula.'
+url: http://www.gutenberg.org/ebooks/30173
