@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30173#Saint-Ursula--I.-The-Story-of-St.-Ursula.-II.-The-Dream-of-St.-Ursula.
 gutenberg_issued: '2009-10-04'
 gutenberg_type: Text
 identifiers:
